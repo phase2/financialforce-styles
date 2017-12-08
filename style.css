@@ -27,13 +27,13 @@ div.timecard-task-summary-task-count {
 /** Buttonize Buttons **/
 
 .f-btn-inner-default-toolbar-small, .timecard-task-summary-add-task-text a {
-  color: white;
+  color: white !important;
   background: #6AACD8;
   border: 1px solid #35B4E9;
   border-radius: 10px;
   font-size: 12px;
   padding: 0px 5px 0px 5px;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .f-btn-inner-default-toolbar-small, .timecard-task-summary-add-task-text a:hover {
